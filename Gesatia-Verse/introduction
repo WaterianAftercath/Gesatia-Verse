@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title></title>
+    <style>
+      div.a {
+        text-align: center;
+      }
+    </style>
+  </head>
+  
+
+
+  <body>
+
+
+
+    <h1>
+      <div class="a">Hi! and welcome to the Gesatia-Verse!</div>
+    </h1>
+
+    <hr>
+    <br>
+
+    <h3></h3>
+    <pre>
+      
+      so what so cool about Gesatia verse?
+      noting! because literally, you're in a website that is only white space.
+      What did you expect?
+      stuff gonna be here soon. I litterally just learn how put on the internet... 
+      So yeah... it will take a bit.
+
+    </pre>
+    <br>
+    
+    <p>
+
+      well you can look at these cool link in the meantine.
+
+    </p>
+    <br>
+
+    <a href="/Gesatia-Verse/Comic/3/Comic1.html"
+    title="Comic1"  
+    
+    >Comic1</a>
+
+    <br>
+
+    <a href="/Gesatia-Verse/Character/Character.html">
+      Character
+    </a>
+
+    
+
+    </p>
+  </body>
+</html>
